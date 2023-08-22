@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 300px;
+    border: solid black;
+    padding: 1%;
+}
+
+input {
+    margin-bottom: 2%;
+}
+
+section{
+    width: 400px;
+    margin: auto;
+}
+
